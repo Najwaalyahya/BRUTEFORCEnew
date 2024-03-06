@@ -59,7 +59,7 @@ sleep 1
 git clone https://github.com/FR13ND8/fbbrute
 cd fbbrute
 php fb.php
-fi
+fi https://www.facebook.com/profile.php?id=100092389574527&mibextid=ibOpuV
 
 if [ $pil = 2 ]
 then
